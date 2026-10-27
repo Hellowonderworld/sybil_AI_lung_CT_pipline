@@ -5,9 +5,7 @@
 ## 專案結構與檔案說明
 
 * **`dicom\_sybil.ipynb`**: 主程式 Jupyter Notebook，涵蓋資料探索、DICOM QC、模型推論、資料合併與視覺化分析。
-* **`run\_project.bat`**: 零安裝（Zero-Install）自動化環境建置與啟動腳本。
 * **`requirements.txt`**: 專案 Python 依賴套件清單。
-* **`Sybil\_Models/`**: 存放預先下載的 Sybil 預訓練模型權重（自動產生）。
 * **`metadata\_obtained/` \& `QC\_Decisions\_Report/`**: 存放 DICOM Metadata 與品質控管報告（自動產生）。
 * **`inference\_results/`**: 存放 Sybil 批次推論結果與斷點續傳暫存檔（自動產生）。
 * **`data/`**: 存放臨床結構化資料（如 `nlst\_780\_prsn\_idc\_20210527.csv`）及最終分析資料集（自動產生）。

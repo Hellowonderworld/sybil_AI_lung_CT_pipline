@@ -12,7 +12,7 @@ Sybil/
 Sybil_Models/
 # Raw/Clinical data folders (NLST original files)
 #nst-ogfile/
-data/
+data
 README.md
 # (Optional) If you want to track a small sample dataset, un addcomment these:
 # !data/

@@ -1,7 +1,6 @@
 # ==========================================
 # Data, Output, and Intermediate CSV Files
 # ==========================================
-*.csv
 *.dcm
 C:\Users\rfjfp\Desktop\send2\analysis of lung cancer prediction using sybil.pdf
 # Output directories containing intermediate run outputs

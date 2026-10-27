@@ -8,12 +8,13 @@ C:\Users\rfjfp\Desktop\send2\analysis of lung cancer prediction using sybil.pdf
 inference_results/
 metadata_obtained/
 QC_Decisions_Report/
-
+Sybil/
+Sybil_Models/
 # Raw/Clinical data folders (NLST original files)
-nst-ogfile/
+#nst-ogfile/
 data/
 
-# (Optional) If you want to track a small sample dataset, uncomment these:
+# (Optional) If you want to track a small sample dataset, un addcomment these:
 # !data/
 # !data/sample_analysis_dataset.csv
 

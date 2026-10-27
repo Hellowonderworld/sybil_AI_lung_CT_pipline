@@ -52,30 +52,16 @@
 
 
 │  dicom_sybil.ipynb
-│  analysis of lung cancer prediction using sybil.docx
-│  analysis of lung cancer prediction using sybil.pdf
-│  analysis of lung cancer prediction using sybil3.pdf
 │  README.md
 │  requirements.txt
 │  run_project.bat
-│  
 ├─data
-│      analysis_dataset.csv
-│      
 ├─inference_results
-│      final_results_20261015_031939.csv
-│      results_20261015_031939.csv
-│      
 ├─metadata_obtained
-│      dicom_metadata_20261015_030703.csv
-│      
 ├─nst-ogfile
 │      nlst_780_canc_idc_20210527.csv
 │      nlst_780_ctabc_idc_20210527.csv
 │      nlst_780_ctab_idc_20210527.csv
 │      nlst_780_prsn_idc_20210527.csv
 │      nlst_780_screen_idc_20210527.csv
-│      
 └─QC_Decisions_Report
-        dicom_QC_Decisions_Report_20261015_030703.csv
-        series_QC_20261015_030703.csv

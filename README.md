@@ -50,18 +50,3 @@
 
 
 
-
-│  dicom_sybil.ipynb
-│  README.md
-│  requirements.txt
-│  run_project.bat
-├─data
-├─inference_results
-├─metadata_obtained
-├─nst-ogfile
-│      nlst_780_canc_idc_20210527.csv
-│      nlst_780_ctabc_idc_20210527.csv
-│      nlst_780_ctab_idc_20210527.csv
-│      nlst_780_prsn_idc_20210527.csv
-│      nlst_780_screen_idc_20210527.csv
-└─QC_Decisions_Report

@@ -1,0 +1,56 @@
+# ==========================================
+# Data, Output, and Intermediate CSV Files
+# ==========================================
+*.csv
+*.dcm
+C:\Users\rfjfp\Desktop\send2\analysis of lung cancer prediction using sybil.pdf
+# Output directories containing intermediate run outputs
+inference_results/
+metadata_obtained/
+QC_Decisions_Report/
+
+# Raw/Clinical data folders (NLST original files)
+nst-ogfile/
+data/
+
+# (Optional) If you want to track a small sample dataset, uncomment these:
+# !data/
+# !data/sample_analysis_dataset.csv
+
+# ==========================================
+# Temporary & Scratch Files
+# ==========================================
+Untitled*
+Untitled-1.py
+*.tmp
+run_project.txt
+
+# ==========================================
+# Model Weights & Model Caches
+# ==========================================
+Sybil_Models/
+*.pt
+*.pth
+*.bin
+
+# ==========================================
+# Python & Jupyter Artifacts
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================================
+# Environments & IDEs
+# ==========================================
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
